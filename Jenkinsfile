@@ -44,4 +44,5 @@ pipeline {
        echo "Build succeeded"
        //mail body: 'build succeeded', subject: 'Build Succeeded', to: 'devops@company.com'
      }
+   }
 }
